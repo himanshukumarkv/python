@@ -1,0 +1,8 @@
+print("1my name is\n himanshu kumar")
+print("2my name is\t himanshu kumar")
+print("3my name is\\ himanshu kumar")
+print("4my name s\rhimanshu kumar")
+print("my name i\'s himanshu kumar")
+print("my name is\b himanshu kumar")
+print("my name is\f himanshu kumar")
+print("my name is\v himanshu kumar")
